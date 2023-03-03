@@ -1,4 +1,4 @@
-#Todo Application
+# Todo Application
 ### Frameworks and Language used:
 * Spring
 * Spring boot
